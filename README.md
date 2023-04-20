@@ -21,3 +21,6 @@ This project is aimed at building a decentralized NoSQL database system in Java.
 
 
 To run the app, you first need to start the bootstrapping node. Once the bootstrapping node is running, you can use the console to write "start" and initiate the rest of the nodes in the cluster.
+
+
+[Project report](https://github.com/Alsaid8bashar/Decentralized-Cluster-Based-NoSQL-DB-System/blob/b36d0b4ba65659baa24829905328a29ebdb5f1a3/CapstonePrject%20report.pdf)
